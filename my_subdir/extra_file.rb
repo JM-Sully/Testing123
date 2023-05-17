@@ -1,1 +1,1 @@
-# add more code becausse that's what devs do
+# add more code because that's what devs do
